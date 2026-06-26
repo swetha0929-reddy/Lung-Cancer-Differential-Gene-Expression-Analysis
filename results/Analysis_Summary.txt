@@ -1,0 +1,6 @@
+Lung Cancer Differential Expression Analysis
+
+Total genes analyzed : 54675
+Significant genes : 1960
+Upregulated genes : 591
+Downregulated genes : 1369
